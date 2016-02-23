@@ -1,0 +1,4 @@
+1、Read Temperature sensor in MSP430
+2、Compare adc potentiometer with inner Temperature sensor,higher set LED on ,else set LED off
+3、PC show Temperature sensor value and potentiometer value through bluetooth
+4、project base on OutOfBox demo,and keep original function
